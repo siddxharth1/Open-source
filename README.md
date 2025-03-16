@@ -1,6 +1,6 @@
 # 🚀 Open Source Contributions
 
-A collection of my contributions to various open-source projects, focusing on performance optimization, UI/UX improvements, and bug fixes.
+A collection of my contributions to various open-source projects.
 
 ---
 
