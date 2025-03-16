@@ -50,6 +50,7 @@ A collection of my contributions to various open-source projects, focusing on pe
 - **Issue**: A boolean variable was never updated, causing logic failure.
 - **Solution**: Fixed conditional logic to update the variable correctly.
 - **Impact**: Ensured correct execution of conditions.
+- **🔗 Link**: [Sticky Nav Bar](https://github.com/imohit1o1/medi-hub/issues/17)
 
 ### 🔹 Custom Background Color Feature
 - **Issue**: Limited predefined background colors.
@@ -62,16 +63,6 @@ A collection of my contributions to various open-source projects, focusing on pe
 - **Solution**: Preserved canvas state on these changes.
 - **Impact**: Prevented unintended data loss.
 - **🔗 Link**: [Screen Getting Cleared on Changing Pen Stroke Size](https://github.com/singodiyashubham87/draw-it-out/issues/2)
-
----
-
-## 📌 Additional Contribution
-
-### 🔹 Sticky Navigation Bar
-- **Issue**: Navigation bar was not fixed, causing usability issues.
-- **Solution**: Implemented a sticky navigation bar for better accessibility.
-- **Impact**: Improved navigation experience.
-- **🔗 Link**: [Sticky Nav Bar](https://github.com/imohit1o1/medi-hub/issues/17)
 
 ---
 
